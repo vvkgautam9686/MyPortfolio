@@ -1,2 +1,2 @@
-# adarshbhatnagar.github.io
+# vishal.github.io
 This is a portfolio website
